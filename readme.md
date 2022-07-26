@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<strong>150stars & 100followers & 50youtube followers = Releasing</strong>
+<strong>150 stars & 100 followers & 50 youtube followers = Releasing</strong>
 </p
 
 <p align="center"> 
