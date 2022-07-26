@@ -4,7 +4,7 @@
 
 
 <p align="center">
-150 stars = Releasing
+150 stars & 100followers = Releasing
 </p
 
 <p align="center"> 
