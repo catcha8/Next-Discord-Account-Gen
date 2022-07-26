@@ -24,7 +24,7 @@ Advantages:
   3.  fully requests solver
   4.  mobile users can run it
 ```
-Questions ?:
+Questions ?
 ```
 Join discord server and ask me...
 ```
