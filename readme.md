@@ -9,7 +9,7 @@
 
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/1001219604569391258/1001548849883656222/unknown.png"></img>
-<img src="[https://cdn.discordapp.com/attachments/1001219604569391258/1001548849883656222/unknown.png](https://cdn.discordapp.com/attachments/1001219604569391258/1001548782258884740/unknown.png)"></img>
+<img src="https://cdn.discordapp.com/attachments/1001219604569391258/1001548782258884740/unknown.png"></img>
 </p
 
 How to run:
