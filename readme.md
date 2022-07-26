@@ -8,7 +8,7 @@
 </p
 
 <p align="center"> 
-<img src="[https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png](https://discord.com/channels/1001219604569391255/1001219604569391258/1001548782565077164)"></img>
+<img src="https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png"></img>
 </p
 
 How to run:
