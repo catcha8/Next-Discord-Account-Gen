@@ -4,7 +4,7 @@
 
 
 <p align="center">
-150 stars = Realeasing
+150 stars = Releasing
 </p
 
 <p align="center"> 
