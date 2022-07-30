@@ -5,6 +5,8 @@
 
 <p align="center">
 <strong>150 stars & 100 followers & 50 youtube followers = Releasing</strong>
+
+https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A <---- Youtube link
 </p
 
 <p align="center"> 
