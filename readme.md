@@ -6,7 +6,7 @@
 <p align="center">
 <strong>150 stars & 100 followers & 50 youtube followers = Releasing</strong>
   
-<strong>BOTS DOESN'T COUNTS</strong>  
+<strong>BOTS DOESN'T COUNTS</strong>   
 
 https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A <---- Youtube link
 </p
