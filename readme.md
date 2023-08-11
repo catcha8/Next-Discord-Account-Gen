@@ -1,4 +1,4 @@
-<h2 align="center">Discord Server: <a href="https://discord.gg/catcha">discord.gg/catcha</a></h2>
+<h2 align="center">Discord Server: <a href="https://discord.gg/hktVzrff54">discord.gg/hktVzrff54</a></h2>
 <h2 align="center">Tutorial: <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">Soon... Click to follow me</a></h2>
 
 
